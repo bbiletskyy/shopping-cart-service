@@ -43,7 +43,7 @@ To add an item to an existing shopping cart:
 	
 To remove an item from an existing shopping cart:
 
-	PUT http://localhost:8080/carts/0dd8e088-45ec-4ca8-ad9f-ad6fa081027d/items/lamp
+	DELETE http://localhost:8080/carts/0dd8e088-45ec-4ca8-ad9f-ad6fa081027d/items/lamp
 
 To delete a shopping cart:
 	
